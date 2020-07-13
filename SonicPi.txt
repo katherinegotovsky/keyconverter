@@ -1,0 +1,2 @@
+echo sample :loop_amen, amp:5, sustain: 1.75 | sonic_pi
+echo sample :loop_amen, amp:1, sustain: 1.75 | sonic_pi
